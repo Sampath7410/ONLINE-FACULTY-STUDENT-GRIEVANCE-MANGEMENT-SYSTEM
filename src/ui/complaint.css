@@ -1,0 +1,54 @@
+
+
+.come {
+   display: flex;
+   flex-direction: column;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 92.5em;
+    
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+   input[type="nu"],
+  /* input[type="number"],  */
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 3px solid #db1414ee;
+    border-radius: 5px;
+    border-color:#1b1515;
+    background-color: transparent;
+    
+  }
+  
+  textarea.c1 {
+    height: 150px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+ 
+   

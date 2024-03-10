@@ -1,0 +1,52 @@
+.modelbackground{
+    width: 100vw;
+  height: 100vh;
+  background-color: rgba(200, 200, 200);
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+.modelbody{
+    border-color: black;
+    border-radius: 0.2em;
+    border-width: 0.3em;
+    border-style: solid;
+    height: 30em;
+    width: 20em;
+    background-color:white;
+}
+.items{
+    color: black;
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center;
+    font-size: 1.5em;
+    
+}
+
+.closebutton{
+    background-color: rgb(216, 10, 10);
+    
+    height: 2.7em;
+    width: 10em;
+    margin-left: 7em;
+    margin-top: 4.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tick{
+    color: green;
+    margin-left: 8em;
+    margin-top: 3em;
+     height: 30px;
+     
+     
+}
+
+.icon{
+    font-size: 60px;
+}

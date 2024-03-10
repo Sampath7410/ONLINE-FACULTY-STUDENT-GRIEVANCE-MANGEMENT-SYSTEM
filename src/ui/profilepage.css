@@ -1,0 +1,32 @@
+.pp2 {
+    
+    background-color: #7d6b6b;
+    width: 20em;
+  }
+  
+  .pp2 h1 {
+    font-size: 50px;
+    color: #333;
+
+  }
+  
+  .pp1 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+  }
+  
+  .pp1 p {
+    margin: 5px 0;
+    font-size: 25px;
+    color: #333;
+  }
+.pp3{
+    
+    padding-left: 30em;
+}

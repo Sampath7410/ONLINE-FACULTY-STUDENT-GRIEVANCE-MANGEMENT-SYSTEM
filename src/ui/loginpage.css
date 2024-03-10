@@ -1,0 +1,68 @@
+.body1{
+     background-image:url('c:\Users\DELL\Downloads\StudentFaculty.png');
+     height: 50em;  
+     background-attachment: fixed;
+    background-size: cover;
+   
+    background-repeat: no-repeat;
+    background-position: 100%;
+    display: flex;
+    flex-direction: column;
+    
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box1{
+     background-color: rgb(233, 238, 239);
+     height: 28em;
+     width: 40em;
+     position: fixed;
+     display: flex;
+     flex-direction: column;
+     border-style:solid;
+     border-color: rgb(11, 59, 22);
+     border-radius: 2em;
+     border-width: 0.3em;
+     opacity: 0.7;
+     
+     
+     align-items: center;
+     justify-content: space-around;
+
+    
+}
+
+/* ` */
+.button{
+     background-color: rgb(222, 94, 94);
+     justify-content: space-around;
+     justify-content: space-between;
+     background-color: black;
+     border-radius: 0cqi;
+     border-style: hidden;
+     border-color: blue;
+     
+    
+}   
+.heading1{
+     margin-bottom: 20em;
+     color: rgba(37, 16, 31, 0.484);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2em;
+    font-size: larger;
+    font-weight: 1000;
+    font-style: oblique;
+    font-family: Georgia, serif;
+  font-size: 30px;
+  
+}
+
+.link{
+     text-decoration:dotted;
+}
